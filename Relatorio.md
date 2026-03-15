@@ -1,13 +1,15 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO SERVIÇOS AWS
 
 Data: 15/03/2026
+
 Empresa: Abstergo Industries 
+
 Responsável: Gabriel Germano
 
 ## Introdução
 Este relatórioo apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Gabriel Germano. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-## DescriÃ§Ã£o do Projeto
+## Descrição do projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
